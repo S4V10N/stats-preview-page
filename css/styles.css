@@ -22,14 +22,14 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 120vh;
+    height: 100vh;
     padding: 1.4rem;
     background-color: var(--VERY-DARK-BLUE);
     color: var(--SLIGHTLY-TRANSPARENT-WHITE_MAIN);
 }
 .section{
     background-color: var(--DARK-DESATURATED-BLUE);
-    height: 65rem;
+    height: 66rem;
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
@@ -124,7 +124,7 @@ span{
         height: 6rem;
         flex-direction: row;
         margin: 0rem;
-        margin-top: 8rem;
+        margin-top: 8cap;
     }
     figure{
         border-radius: 0rem 1rem 1rem 0rem;
